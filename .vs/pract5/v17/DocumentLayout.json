@@ -1,0 +1,203 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0421 \u043C\u043E\u0435\u0433\u043E \u043A\u043E\u043C\u043F\u0430\\Project MPT\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B Visual Studio\\wpffuck\\pract5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F514FA8-9F78-47FC-B30A-6BCFBA3C375F}|pract5\\pract5.csproj|d:\\\u0441 \u043C\u043E\u0435\u0433\u043E \u043A\u043E\u043C\u043F\u0430\\project mpt\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B visual studio\\wpffuck\\pract5\\pract5\\model\\trigcalculatormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F514FA8-9F78-47FC-B30A-6BCFBA3C375F}|pract5\\pract5.csproj|solutionrelative:pract5\\model\\trigcalculatormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F514FA8-9F78-47FC-B30A-6BCFBA3C375F}|pract5\\pract5.csproj|D:\\\u0421 \u043C\u043E\u0435\u0433\u043E \u043A\u043E\u043C\u043F\u0430\\Project MPT\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B Visual Studio\\wpffuck\\pract5\\pract5\\view\\trigcalculatorview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9F514FA8-9F78-47FC-B30A-6BCFBA3C375F}|pract5\\pract5.csproj|solutionrelative:pract5\\view\\trigcalculatorview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F514FA8-9F78-47FC-B30A-6BCFBA3C375F}|pract5\\pract5.csproj|D:\\\u0421 \u043C\u043E\u0435\u0433\u043E \u043A\u043E\u043C\u043F\u0430\\Project MPT\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B Visual Studio\\wpffuck\\pract5\\pract5\\viewmodel\\calculatorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F514FA8-9F78-47FC-B30A-6BCFBA3C375F}|pract5\\pract5.csproj|solutionrelative:pract5\\viewmodel\\calculatorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F514FA8-9F78-47FC-B30A-6BCFBA3C375F}|pract5\\pract5.csproj|D:\\\u0421 \u043C\u043E\u0435\u0433\u043E \u043A\u043E\u043C\u043F\u0430\\Project MPT\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B Visual Studio\\wpffuck\\pract5\\pract5\\model\\calculatormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F514FA8-9F78-47FC-B30A-6BCFBA3C375F}|pract5\\pract5.csproj|solutionrelative:pract5\\model\\calculatormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F514FA8-9F78-47FC-B30A-6BCFBA3C375F}|pract5\\pract5.csproj|D:\\\u0421 \u043C\u043E\u0435\u0433\u043E \u043A\u043E\u043C\u043F\u0430\\Project MPT\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B Visual Studio\\wpffuck\\pract5\\pract5\\view\\calculatorview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9F514FA8-9F78-47FC-B30A-6BCFBA3C375F}|pract5\\pract5.csproj|solutionrelative:pract5\\view\\calculatorview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F514FA8-9F78-47FC-B30A-6BCFBA3C375F}|pract5\\pract5.csproj|D:\\\u0421 \u043C\u043E\u0435\u0433\u043E \u043A\u043E\u043C\u043F\u0430\\Project MPT\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B Visual Studio\\wpffuck\\pract5\\pract5\\viewmodel\\trigcalculatorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F514FA8-9F78-47FC-B30A-6BCFBA3C375F}|pract5\\pract5.csproj|solutionrelative:pract5\\viewmodel\\trigcalculatorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F514FA8-9F78-47FC-B30A-6BCFBA3C375F}|pract5\\pract5.csproj|D:\\\u0421 \u043C\u043E\u0435\u0433\u043E \u043A\u043E\u043C\u043F\u0430\\Project MPT\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B Visual Studio\\wpffuck\\pract5\\pract5\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9F514FA8-9F78-47FC-B30A-6BCFBA3C375F}|pract5\\pract5.csproj|solutionrelative:pract5\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F514FA8-9F78-47FC-B30A-6BCFBA3C375F}|pract5\\pract5.csproj|D:\\\u0421 \u043C\u043E\u0435\u0433\u043E \u043A\u043E\u043C\u043F\u0430\\Project MPT\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B Visual Studio\\wpffuck\\pract5\\pract5\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9F514FA8-9F78-47FC-B30A-6BCFBA3C375F}|pract5\\pract5.csproj|solutionrelative:pract5\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F514FA8-9F78-47FC-B30A-6BCFBA3C375F}|pract5\\pract5.csproj|D:\\\u0421 \u043C\u043E\u0435\u0433\u043E \u043A\u043E\u043C\u043F\u0430\\Project MPT\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B Visual Studio\\wpffuck\\pract5\\pract5\\viewmodel\\helpers\\bindablecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F514FA8-9F78-47FC-B30A-6BCFBA3C375F}|pract5\\pract5.csproj|solutionrelative:pract5\\viewmodel\\helpers\\bindablecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F514FA8-9F78-47FC-B30A-6BCFBA3C375F}|pract5\\pract5.csproj|D:\\\u0421 \u043C\u043E\u0435\u0433\u043E \u043A\u043E\u043C\u043F\u0430\\Project MPT\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B Visual Studio\\wpffuck\\pract5\\pract5\\viewmodel\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F514FA8-9F78-47FC-B30A-6BCFBA3C375F}|pract5\\pract5.csproj|solutionrelative:pract5\\viewmodel\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F514FA8-9F78-47FC-B30A-6BCFBA3C375F}|pract5\\pract5.csproj|D:\\\u0421 \u043C\u043E\u0435\u0433\u043E \u043A\u043E\u043C\u043F\u0430\\Project MPT\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B Visual Studio\\wpffuck\\pract5\\pract5\\view\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F514FA8-9F78-47FC-B30A-6BCFBA3C375F}|pract5\\pract5.csproj|solutionrelative:pract5\\view\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CalculatorModel.cs",
+              "DocumentMoniker": "D:\\\u0421 \u043C\u043E\u0435\u0433\u043E \u043A\u043E\u043C\u043F\u0430\\Project MPT\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B Visual Studio\\wpffuck\\pract5\\pract5\\Model\\CalculatorModel.cs",
+              "RelativeDocumentMoniker": "pract5\\Model\\CalculatorModel.cs",
+              "ToolTip": "D:\\\u0421 \u043C\u043E\u0435\u0433\u043E \u043A\u043E\u043C\u043F\u0430\\Project MPT\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B Visual Studio\\wpffuck\\pract5\\pract5\\Model\\CalculatorModel.cs",
+              "RelativeToolTip": "pract5\\Model\\CalculatorModel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T18:21:10.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CalculatorView.xaml",
+              "DocumentMoniker": "D:\\\u0421 \u043C\u043E\u0435\u0433\u043E \u043A\u043E\u043C\u043F\u0430\\Project MPT\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B Visual Studio\\wpffuck\\pract5\\pract5\\View\\CalculatorView.xaml",
+              "RelativeDocumentMoniker": "pract5\\View\\CalculatorView.xaml",
+              "ToolTip": "D:\\\u0421 \u043C\u043E\u0435\u0433\u043E \u043A\u043E\u043C\u043F\u0430\\Project MPT\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B Visual Studio\\wpffuck\\pract5\\pract5\\View\\CalculatorView.xaml",
+              "RelativeToolTip": "pract5\\View\\CalculatorView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-15T10:52:28.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CalculatorViewModel.cs",
+              "DocumentMoniker": "D:\\\u0421 \u043C\u043E\u0435\u0433\u043E \u043A\u043E\u043C\u043F\u0430\\Project MPT\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B Visual Studio\\wpffuck\\pract5\\pract5\\ViewModel\\CalculatorViewModel.cs",
+              "RelativeDocumentMoniker": "pract5\\ViewModel\\CalculatorViewModel.cs",
+              "ToolTip": "D:\\\u0421 \u043C\u043E\u0435\u0433\u043E \u043A\u043E\u043C\u043F\u0430\\Project MPT\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B Visual Studio\\wpffuck\\pract5\\pract5\\ViewModel\\CalculatorViewModel.cs",
+              "RelativeToolTip": "pract5\\ViewModel\\CalculatorViewModel.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T10:53:37.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TrigCalculatorViewModel.cs",
+              "DocumentMoniker": "D:\\\u0421 \u043C\u043E\u0435\u0433\u043E \u043A\u043E\u043C\u043F\u0430\\Project MPT\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B Visual Studio\\wpffuck\\pract5\\pract5\\ViewModel\\TrigCalculatorViewModel.cs",
+              "RelativeDocumentMoniker": "pract5\\ViewModel\\TrigCalculatorViewModel.cs",
+              "ToolTip": "D:\\\u0421 \u043C\u043E\u0435\u0433\u043E \u043A\u043E\u043C\u043F\u0430\\Project MPT\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B Visual Studio\\wpffuck\\pract5\\pract5\\ViewModel\\TrigCalculatorViewModel.cs",
+              "RelativeToolTip": "pract5\\ViewModel\\TrigCalculatorViewModel.cs",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAmwG8AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T10:53:53.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TrigCalculatorView.xaml",
+              "DocumentMoniker": "D:\\\u0421 \u043C\u043E\u0435\u0433\u043E \u043A\u043E\u043C\u043F\u0430\\Project MPT\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B Visual Studio\\wpffuck\\pract5\\pract5\\View\\TrigCalculatorView.xaml",
+              "RelativeDocumentMoniker": "pract5\\View\\TrigCalculatorView.xaml",
+              "ToolTip": "D:\\\u0421 \u043C\u043E\u0435\u0433\u043E \u043A\u043E\u043C\u043F\u0430\\Project MPT\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B Visual Studio\\wpffuck\\pract5\\pract5\\View\\TrigCalculatorView.xaml",
+              "RelativeToolTip": "pract5\\View\\TrigCalculatorView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-15T10:52:45.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TrigCalculatorModel.cs",
+              "DocumentMoniker": "D:\\\u0421 \u043C\u043E\u0435\u0433\u043E \u043A\u043E\u043C\u043F\u0430\\Project MPT\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B Visual Studio\\wpffuck\\pract5\\pract5\\Model\\TrigCalculatorModel.cs",
+              "RelativeDocumentMoniker": "pract5\\Model\\TrigCalculatorModel.cs",
+              "ToolTip": "D:\\\u0421 \u043C\u043E\u0435\u0433\u043E \u043A\u043E\u043C\u043F\u0430\\Project MPT\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B Visual Studio\\wpffuck\\pract5\\pract5\\Model\\TrigCalculatorModel.cs",
+              "RelativeToolTip": "pract5\\Model\\TrigCalculatorModel.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T18:21:31.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\\u0421 \u043C\u043E\u0435\u0433\u043E \u043A\u043E\u043C\u043F\u0430\\Project MPT\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B Visual Studio\\wpffuck\\pract5\\pract5\\View\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "pract5\\View\\MainWindow.xaml",
+              "ToolTip": "D:\\\u0421 \u043C\u043E\u0435\u0433\u043E \u043A\u043E\u043C\u043F\u0430\\Project MPT\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B Visual Studio\\wpffuck\\pract5\\pract5\\View\\MainWindow.xaml",
+              "RelativeToolTip": "pract5\\View\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-15T11:15:50.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\\u0421 \u043C\u043E\u0435\u0433\u043E \u043A\u043E\u043C\u043F\u0430\\Project MPT\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B Visual Studio\\wpffuck\\pract5\\pract5\\App.xaml",
+              "RelativeDocumentMoniker": "pract5\\App.xaml",
+              "ToolTip": "D:\\\u0421 \u043C\u043E\u0435\u0433\u043E \u043A\u043E\u043C\u043F\u0430\\Project MPT\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B Visual Studio\\wpffuck\\pract5\\pract5\\App.xaml",
+              "RelativeToolTip": "pract5\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-15T11:15:36.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BindableCommand.cs",
+              "DocumentMoniker": "D:\\\u0421 \u043C\u043E\u0435\u0433\u043E \u043A\u043E\u043C\u043F\u0430\\Project MPT\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B Visual Studio\\wpffuck\\pract5\\pract5\\ViewModel\\Helpers\\BindableCommand.cs",
+              "RelativeDocumentMoniker": "pract5\\ViewModel\\Helpers\\BindableCommand.cs",
+              "ToolTip": "D:\\\u0421 \u043C\u043E\u0435\u0433\u043E \u043A\u043E\u043C\u043F\u0430\\Project MPT\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B Visual Studio\\wpffuck\\pract5\\pract5\\ViewModel\\Helpers\\BindableCommand.cs",
+              "RelativeToolTip": "pract5\\ViewModel\\Helpers\\BindableCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAowAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T11:07:06.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindowViewModel.cs",
+              "DocumentMoniker": "D:\\\u0421 \u043C\u043E\u0435\u0433\u043E \u043A\u043E\u043C\u043F\u0430\\Project MPT\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B Visual Studio\\wpffuck\\pract5\\pract5\\ViewModel\\MainWindowViewModel.cs",
+              "RelativeDocumentMoniker": "pract5\\ViewModel\\MainWindowViewModel.cs",
+              "ToolTip": "D:\\\u0421 \u043C\u043E\u0435\u0433\u043E \u043A\u043E\u043C\u043F\u0430\\Project MPT\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B Visual Studio\\wpffuck\\pract5\\pract5\\ViewModel\\MainWindowViewModel.cs",
+              "RelativeToolTip": "pract5\\ViewModel\\MainWindowViewModel.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAgwCMAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T11:05:40.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\\u0421 \u043C\u043E\u0435\u0433\u043E \u043A\u043E\u043C\u043F\u0430\\Project MPT\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B Visual Studio\\wpffuck\\pract5\\pract5\\View\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "pract5\\View\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\\u0421 \u043C\u043E\u0435\u0433\u043E \u043A\u043E\u043C\u043F\u0430\\Project MPT\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B Visual Studio\\wpffuck\\pract5\\pract5\\View\\MainWindow.xaml.cs",
+              "RelativeToolTip": "pract5\\View\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T08:51:06.022Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
